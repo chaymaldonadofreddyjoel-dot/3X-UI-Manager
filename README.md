@@ -1,10 +1,10 @@
 # 3X-UI Manager
 
-Native mobile clients for managing [3x-ui](https://github.com/MHSanaei/3x-ui) panels over the REST API — dashboard, inbounds, clients (with QR sharing), nodes, and the Xray config, on the go. **Multi-instance: connect to several panels and switch between them from one app.**
+Native mobile clients for managing [3x-ui](https://github.com/MHSanaei/3x-ui) panels over the REST API — dashboard, inbounds, clients (with QR sharing), nodes, and the Xray config, on the go. connect to several panels and switch between them from one app.**
 
 > ✅ **Compatible with 3x-ui panels up to v3.10.0.** The app speaks the panel's stable REST API, so a new panel release does **not** require a new app version — no need to wait for an app update when the panel bumps (the rare exceptions are noted in this app's release notes). Panel **3.10.0** is one: creating Shadowsocks inbounds and MASQUE support need app **v0.15.1** or newer.
 
-This branch (`main`) holds the **Android** app (Kotlin + Jetpack Compose), built straight from the repository root.
+This branch holds the **Android** app (Kotlin + Jetpack Compose), built straight from the repository root.
 
 [![Get it on F-Droid](https://fdroid.gitlab.io/artwork/badge/get-it-on.png)](https://f-droid.org/packages/net.yukh.xui)
 
