@@ -4,7 +4,7 @@ Native Apple clients for managing a [3x-ui](https://github.com/MHSanaei/3x-ui) p
 
 This branch (`apple`) is a **Kotlin Multiplatform + Compose Multiplatform** project, built straight from the repository root. It produces an **iOS** app (via Xcode) and a **macOS desktop** app, sharing business logic with the Android app.
 
-🇷🇺 [Версия на русском](README.ru.md) · 📖 [User manual](https://github.com/yukh975/3X-UI-Manager/blob/main/docs/3X-UI-MANAGER.en.md) · 📝 [Changelog](CHANGELOG.md)
+🇷🇺 [Версия на русском](README.ru.md) · 📖 [User manual](https://github.com/yukh975/3X-UI-Manager/blob/main/docs/3X-UI-MANAGER.en.md) · 📝 
 
 ---
 
